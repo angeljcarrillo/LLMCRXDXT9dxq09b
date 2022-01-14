@@ -1,5 +1,14 @@
 # LLMCRXDXT9dxq09b
-## Use the enviroment
+## A fastest growing startups is in the logistics and delivery domain. They work with several partners and make on-demand delivery to tehir customers. During the COVID-19 pandemic, they are facing several different challenges and everyday they are trying to address these challenges.
 
-Using feature selection, it’s possible to achieve a perfect classification; only using the features 0,2,4 questions which have the most significant values, so you can remove the rest of the questions. Anyway, for all the model tested Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector Machine and Naive Bayes my recommendation is the logistic regression because it have a previous training and require less time that the other model that require training, however if the training is no require, I will go for the naïve bayes, because it’s a probabilistic method.
-Finally, the database is too small to create reliable method by now.
+They want to predict what makes their customers happy or unhappy using six features, so they can take necessary actions.
+
+Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
+
+Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
+X1 = my order was delivered on time
+X2 = contents of my order was as I expected
+X3 = I ordered everything I wanted to order
+X4 = I paid a good price for my order
+X5 = I am satisfied with my courier
+X6 = the app makes ordering easy for me
